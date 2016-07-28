@@ -30,13 +30,13 @@ addon | version | summary
 [base_concurrency](base_concurrency/) | 8.0.1.0.0 | Base Concurrency
 [base_custom_info](base_custom_info/) | 8.0.1.0.0 | Add custom field in models
 [base_debug4all](base_debug4all/) | 8.0.1.0.0 | Shows full debug options for all users
-[base_export_manager](base_export_manager/) | 8.0.1.0.0 | Manages model export profiles
+[base_export_manager](base_export_manager/) | 8.0.2.0.0 | Manage model export profiles
 [base_external_dbsource](base_external_dbsource/) | 8.0.1.3.0 | External Database Sources
 [base_import_match](base_import_match/) | 8.0.1.0.0 | Try to avoid duplicates before importing
 [base_ir_filters_active](base_ir_filters_active/) | 8.0.1.0.0 | Allows you to disable (hide) filters
 [base_module_doc_rst](base_module_doc_rst/) | 8.0.1.0.0 | Modules Technical Guides in RST and Relationship Graphs
 [base_multi_image](base_multi_image/) | 8.0.2.0.0 | Allow multiple images for database objects
-[base_name_search_improved](base_name_search_improved/) | 8.0.1.0.0 | Friendlier search when typing in relation fields
+[base_name_search_improved](base_name_search_improved/) | 8.0.1.0.1 | Friendlier search when typing in relation fields
 [base_optional_quick_create](base_optional_quick_create/) | 8.0.0.1.0 | Avoid 'quick create' on m2o fields, on a 'by model' basis
 [base_report_auto_create_qweb](base_report_auto_create_qweb/) | 8.0.1.0.0 | Report qweb auto generation
 [base_suspend_security](base_suspend_security/) | 8.0.1.0.0 | Suspend security checks for a call
@@ -51,6 +51,7 @@ addon | version | summary
 [disable_openerp_online](disable_openerp_online/) | 8.0.1.1.0 | Remove odoo.com bindings
 [fetchmail_attach_from_folder](fetchmail_attach_from_folder/) | 8.0.1.0.1 | Attach mails in an IMAP folder to existing objects
 [fetchmail_notify_error_to_sender](fetchmail_notify_error_to_sender/) | 8.0.1.0.0 | If fetching mails gives error, send an email to sender
+[field_char_transformed](field_char_transformed/) | 8.0.1.0.0 | Allows to transform input in character fields before writing or reading it to/from the database
 [html_image_url_extractor](html_image_url_extractor/) | 8.0.1.0.0 | Extract images found in any HTML field
 [html_text](html_text/) | 8.0.1.0.0 | Generate excerpts from any HTML field
 [inactive_session_timeout](inactive_session_timeout/) | 8.0.1.0.0 | This module disable all inactive sessions since a given delay
